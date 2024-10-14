@@ -2,6 +2,18 @@
 Link do projeto(Render): https://project-sprint-5-vehicles.onrender.com
 
 
+Rafael, 
+Não localizei o problema de idennção no app.py no primeiro IF e quais mais alterações a realizar. 
+
+
+
+
+
+
+
+
+
+
 Rafa, será por conta dos amibientes abaixo? Para mim não aparece erro. Rodaram os gráficos normalmente. Abaixo veja os ambientes e demais prints. No appy aparece erro no output. Pode me ajudar a identificar onde estao os erros? Grata.
 
 (base) C:\Users\Samsung>conda env list
