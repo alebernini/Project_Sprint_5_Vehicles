@@ -3,7 +3,7 @@ Link do projeto(Render): https://project-sprint-5-vehicles.onrender.com
 
 
 Rafael, 
-Não localizei o problema de idennção no app.py no primeiro IF e quais mais alterações a realizar. 
+Não localizei o problema de idennção no app.py no primeiro IF e quais mais alterações a realizar. O que mais precisa ser feito por favor?
 
 
 
